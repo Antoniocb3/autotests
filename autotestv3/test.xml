@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+    <question name="Pais no EU" base_score="1">
+        <statement>
+            ¿Cuál de estos países no está en Europa?
+        </statement>
+        <options>
+            <option weight="1">
+                Australia
+            </option>
+            <option weight="-0.25">
+                Francia
+            </option>
+            <option weight="-0.25">
+                Alemania
+            </option>
+            <option weight="-0.25">
+                Italia
+            </option>
+        </options>
+    </question>
+    <question name="Rey de los instrumentos" base_score="1">
+        <statement>
+            ¿Qué instrumento musical es conocido como el "rey de los instrumentos"?
+        </statement>
+        <options>
+            <option weight="-0.25">
+                Guitarra
+            </option>
+            <option weight="1">
+                Piano
+            </option>
+            <option weight="-0.25">
+                Batería
+            </option>
+            <option weight="-0.25">
+                Violín
+            </option>
+        </options>
+    </question>
+    <question name="Raíz cuadrada" base_score="1">
+        <statement>
+            ¿Cuánto es la raíz cuadrada de 100?
+        </statement>
+        <options>
+            <option weight="-0.25">
+                5
+            </option>
+            <option weight="-0.25">
+                7
+            </option>
+            <option weight="1">
+                10
+            </option>
+            <option weight="-0.25">
+                2
+            </option>
+        </options>
+    </question>
+    <question name="Revolución Francesa" base_score="1">
+        <statement>
+            ¿En qué año se llevó a cabo la Revolución Francesa?
+        </statement>
+        <options>
+            <option weight="-0.25">
+                1834
+            </option>
+            <option weight="-0.25">
+                1812
+            </option>
+            <option weight="-0.25">
+                1777
+            </option>
+            <option weight="1">
+                1789
+            </option>
+        </options>
+    </question>
+    <question name="Pais no UE" base_score="1">
+        <statement>
+            ¿Cuál de estos países no es parte de la Unión Europea?
+        </statement>
+        <options>
+            <option weight="1">
+                Noruega
+            </option>
+            <option weight="-0.25">
+                Polonia
+            </option>
+            <option weight="-0.25">
+                Portugal
+            </option>
+            <option weight="-0.25">
+                Finlandia
+            </option>
+        </options>
+    </question>
+</test>

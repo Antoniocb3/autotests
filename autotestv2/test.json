@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Pais no EU",
+    "statement":"¿Cuál de estos países no está en Europa?",
+    "options":[["Francia",-0.25],["Alemania",-0.25],["Italia",-0.25],["Australia",1]],
+    "points":1
+  },
+  {
+    "name":"Rey de los instrumentos",
+    "statement":"¿Qué instrumento musical es conocido como el \"rey de los instrumentos\"?",
+    "options":[["Guitarra",-0.25],["Piano",1],["Batería",-0.25],["Violín",-0.25]],
+    "points":1
+  },
+  {
+    "name":"Raíz cuadrada",
+    "statement":"¿Cuánto es la raíz cuadrada de 100?",
+    "options":[["5",-0.25],["10",1],["7",-0.25],["2",-0.25]],
+    "points":1
+  },
+  {
+    "name":"Revolución Francesa",
+    "statement":"¿En qué año se llevó a cabo la Revolución Francesa?",
+    "options":[["1834",-0.25],["1812",-0.25],["1789",1],["1777",-0.25]],
+    "points":1
+  },
+  {
+    "name":"Pais no UE",
+    "statement":"¿Cuál de estos países no es parte de la Unión Europea?",
+    "options":[["Polonia",-0.25],["Portugal",-0.25],["Noruega",1],["Finlandia",-0.25]],
+    "points":1
+  }
+]
